@@ -6,7 +6,7 @@
 
 - Fundraising Report - This is a report developed in my role as a volunteer for nonprofits. There are no statistical models but significant data engineering and visualizations involved. The goal is to show and discuss essential fundraising metrics.
 
-### Interesting codes developed during courses or by personal interest
+### Interesting codes developed during courses or by personal interest:
 
 Simplified version of models from scratch
 - Decision Trees from scratch
