@@ -6,6 +6,8 @@
 
 - Fundraising Report - This is a report developed in my role as a volunteer for nonprofits. There are no statistical models but significant data engineering and visualizations involved. The goal is to show and discuss essential fundraising metrics.
 
+- Scientific Manuscript - This is a summary of my Master's Thesis. No codes, just academic writing and statistical analysis applied to Chemical Engineering.  
+
 ### Interesting codes developed during courses or by personal interest:
 
 Simplified version of models from scratch
