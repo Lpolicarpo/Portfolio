@@ -8,7 +8,7 @@
 
 - Scientific Manuscript - This is a summary of my Master's Thesis. No codes, just academic writing and statistical analysis applied to Chemical Engineering.  
 
-### Interesting codes developed during courses or by personal interest:
+### Interesting codes developed during courses or personal interest:
 
 Simplified version of models from scratch
 - Decision Trees from scratch
