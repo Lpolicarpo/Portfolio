@@ -1,5 +1,8 @@
 ## Here you will find a sample of some of my work related to Data Science. 
 
+
+(/images/test_image.jpg)
+
 ### Below there is a short description of each file.  
 
 - Machine Learning Project - Direct Mailing: This is a beginning to end ML Project with real data from a charitable organization. It was also used as the final project of the UofT ML course. 
