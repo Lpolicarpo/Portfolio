@@ -1,7 +1,7 @@
 ## Here you will find a sample of some of my work related to Data Science. 
 
 
-![](/images/test_image.jpg)
+![hey](/images/test_image.jpg)
 
 ### Below there is a short description of each file.  
 
