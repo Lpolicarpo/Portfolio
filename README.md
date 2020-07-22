@@ -1,6 +1,8 @@
 ## Here you will find a sample of some of my work related to Data Science. 
 
 
+## [Machine Learning Project - Targeting donors](https://github.com/Lpolicarpo/Portfolio/blob/master/Machine%20Learning%20Project%20-%20Direct%20Mailing.ipynb)
+
 ![hey](/images/test_image.jpg)
 
 ### Below there is a short description of each file.  
