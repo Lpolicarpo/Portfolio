@@ -3,7 +3,7 @@
 
 ## [Machine Learning Project - Targeting donors](https://github.com/Lpolicarpo/Portfolio/blob/master/Machine%20Learning%20Project%20-%20Direct%20Mailing.ipynb)
 
-![hey](/images/test_image.jpg)(https://github.com/Lpolicarpo/Portfolio/blob/master/Machine%20Learning%20Project%20-%20Direct%20Mailing.ipynb) 
+![hey](/images/test_image.jpg)
 
 ### Below there is a short description of each file.  
 
