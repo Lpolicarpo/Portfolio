@@ -17,15 +17,13 @@
 - Report developed in my role as a volunteer for charities. 
 - There are no predictions but significant data engineering, data analysis, visualizations and discussion.
 
-
 ## [Scientific Manuscript](https://github.com/Lpolicarpo/Portfolio/blob/master/Scientific%20manuscript.pdf)
 
-![](/images/science.jpg)
+![](/images/Science.jpg)
 
 ### Description:
 - NO CODES. This is a scientific article written from my Master's program. 
 - Statistical inference and analysis applied to controlled experiments.  
-
 
 ### Interesting codes developed during courses or by personal interest:
 
@@ -33,11 +31,11 @@
 
 ## Designing models from scratch
 
-## [Decision Trees from scratch](https://github.com/Lpolicarpo/Portfolio/blob/master/Decision%20trees%20from%20scratch.ipynb)
-## [Multiple regression from scratch](https://github.com/Lpolicarpo/Portfolio/blob/master/Multiple%20regression%20from%20scratch.ipynb)
-## [Logistic regression from scratch](https://github.com/Lpolicarpo/Portfolio/blob/master/Logistic%20regression%20from%20scratch%20-%20Sentiment%20analysis.ipynb)
+### [Decision Trees from scratch](https://github.com/Lpolicarpo/Portfolio/blob/master/Decision%20trees%20from%20scratch.ipynb)
+### [Multiple regression from scratch](https://github.com/Lpolicarpo/Portfolio/blob/master/Multiple%20regression%20from%20scratch.ipynb)
+### [Logistic regression from scratch](https://github.com/Lpolicarpo/Portfolio/blob/master/Logistic%20regression%20from%20scratch%20-%20Sentiment%20analysis.ipynb)
 
 ## Others
 
-## [Regularization techniques Analysis](https://github.com/Lpolicarpo/Portfolio/blob/master/Regularization%20techniques%20Analysis.ipynb)
-## [Polynomial-regression exercise](https://github.com/Lpolicarpo/Portfolio/blob/master/Polynomial-regression%20exercise.ipynb)
+### [Regularization techniques Analysis](https://github.com/Lpolicarpo/Portfolio/blob/master/Regularization%20techniques%20Analysis.ipynb)
+### [Polynomial-regression exercise](https://github.com/Lpolicarpo/Portfolio/blob/master/Polynomial-regression%20exercise.ipynb)
