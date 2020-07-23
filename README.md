@@ -16,16 +16,9 @@
 ### Description:
 - Report developed in my role as a volunteer for charities. 
 - There are no predictions but significant data engineering, data analysis, visualizations and discussion.
+ 
 
-## [Scientific Manuscript](https://github.com/Lpolicarpo/Portfolio/blob/master/Scientific%20manuscript.pdf)
-
-![](/images/Science.jpg)
-
-### Description:
-- NO CODES. This is a scientific article written from my Master's program. 
-- Statistical inference and analysis applied to controlled experiments.  
-
-### Interesting codes developed during courses or by personal interest:
+## Interesting codes developed during courses or by personal interest:
 
 ![](/images/analytics.jpg)
 
@@ -39,3 +32,12 @@
 
 ### [Regularization techniques Analysis](https://github.com/Lpolicarpo/Portfolio/blob/master/Regularization%20techniques%20Analysis.ipynb)
 ### [Polynomial-regression exercise](https://github.com/Lpolicarpo/Portfolio/blob/master/Polynomial-regression%20exercise.ipynb)
+
+
+## [Scientific Manuscript](https://github.com/Lpolicarpo/Portfolio/blob/master/Scientific%20manuscript.pdf)
+
+![](/images/Science.jpg)
+
+### Description:
+- NO CODES. This is a scientific article written from my Master's program. 
+- Statistical inference and analysis applied to controlled experiments. 
