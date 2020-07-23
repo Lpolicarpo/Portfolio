@@ -1,19 +1,30 @@
 ## Here you will find a sample of some of my work related to Data Science. 
 
 
-## [1)Machine Learning Project - Targeting donors](https://github.com/Lpolicarpo/Portfolio/blob/master/Machine%20Learning%20Project%20-%20Direct%20Mailing.ipynb)
+## [Machine Learning Project - Targeting donors for direct mailing](https://github.com/Lpolicarpo/Portfolio/blob/master/Machine%20Learning%20Project%20-%20Direct%20Mailing.ipynb)
 
 ![](/images/project.jpg)
 
-### Below there is a short description of each file.  
+### Description: 
+- This is a beginning to end ML Project with real data from a charitable organization. Final project of the UofT ML course (Grade: 100%).
+- Involves data engineering, data pipelines, Machine Learning models and model assessment.
 
-- Machine Learning Project - Direct Mailing: This is a beginning to end ML Project with real data from a charitable organization. It was also used as the final project of the UofT ML course. 
+## [Fundraising Report - KPI metrics of fundraising](https://github.com/Lpolicarpo/Portfolio/blob/master/Fundraising%20report.ipynb)
 
-- Fundraising Report - This is a report developed in my role as a volunteer for nonprofits. There are no statistical models but significant data engineering and visualizations involved. The goal is to show and discuss essential fundraising metrics.
 
-- Scientific Manuscript - This is a summary of my Master's Thesis. No codes, just academic writing and statistical analysis applied to Chemical Engineering.  
+### Description:
+- Report developed in my role as a volunteer for charities. 
+- There are no predictions but significant data engineering, data analysis, visualizations and discussion.
 
-### Interesting codes developed during courses or personal interest:
+
+## [Scientific Manuscript](https://github.com/Lpolicarpo/Portfolio/blob/master/Scientific%20manuscript.pdf)
+
+### Description:
+- NO CODES. This is an article from my Master's Thesis. 
+- Statistical inference and analysis applied to controlled experiments.  
+
+
+### Interesting codes developed during courses or by personal interest:
 
 Simplified version of models from scratch
 - Decision Trees from scratch
