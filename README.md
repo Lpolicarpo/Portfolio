@@ -1,4 +1,4 @@
-# Here you will find a sample of my work related to Data Science and Analytics. 
+## Here you will find a sample of my work related to Data Science and Analytics. 
 
 
 ## [Machine Learning Project - Targeting donors for direct mailing](https://github.com/Lpolicarpo/Portfolio/blob/master/Machine%20Learning%20Project%20-%20Direct%20Mailing.ipynb)
