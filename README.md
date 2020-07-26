@@ -6,7 +6,7 @@
 ![](/images/project.jpg)
 
 ### Description: 
-- This is a beginning to end ML Project with real data from a charitable organization. Final project of the UofT ML course (Grade: 100%).
+- This is a Machine Learning Project with real data from a charitable organization. Final project of the UofT ML course (Grade: 100%).
 - Involves data engineering, data pipelines, Machine Learning models and model assessment.
 
 ## [Fundraising Report - KPI metrics of fundraising](https://github.com/Lpolicarpo/Portfolio/blob/master/Fundraising%20report.ipynb)
